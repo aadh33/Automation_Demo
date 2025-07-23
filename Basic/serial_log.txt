@@ -1,0 +1,33 @@
+[2025-07-22 14:36:12] Sent: Hi
+[2025-07-22 14:38:17] Sent: Arduino COM22 connected
+[2025-07-22 14:38:43] Sent: Are you fine?
+[2025-07-22 14:39:11] Sent: Echo function testing , is it fine
+[2025-07-22 14:39:24] Sent: Hope its fine
+[2025-07-22 14:44:13] Connection Issue!
+[2025-07-22 14:44:41] Connected to Arduino at COM22
+[2025-07-22 14:44:49] Sent: add
+[2025-07-22 14:44:51] Sent: ad
+[2025-07-22 14:44:54] Serial port closed.
+[2025-07-22 14:48:05] Connected to Arduino at COM22
+[2025-07-22 14:48:08] Sent: hi
+[2025-07-22 14:48:56] Serial port closed.
+[2025-07-22 14:51:56] Sent: data
+[2025-07-22 14:54:58] Received: Arduino ready
+[2025-07-22 14:55:02] Sent: hi
+[2025-07-22 14:55:02] Received: hi
+[2025-07-22 14:55:02] Received: send successful
+[2025-07-22 14:55:09] Sent: 
+[2025-07-22 14:55:09] Received: send successful
+[2025-07-22 14:55:13] Sent: hi
+[2025-07-22 14:55:13] Received: hi
+[2025-07-22 14:55:13] Received: send successful
+[2025-07-22 14:56:44] Sent: hi
+[2025-07-22 14:56:44] Received: hi
+[2025-07-22 14:56:44] Received: send successful
+[2025-07-22 14:56:49] Sent: hi from PC
+[2025-07-22 14:56:49] Received: hi from PC
+[2025-07-22 14:56:49] Received: send successful
+[2025-07-22 14:57:31] Sent: Hi from PC
+[2025-07-22 14:57:31] Received: Hi from PC
+[2025-07-22 14:57:44] Sent: hi from pc
+[2025-07-22 14:57:44] Received: hi from pc
