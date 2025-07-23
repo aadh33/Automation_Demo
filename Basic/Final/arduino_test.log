@@ -1,0 +1,169 @@
+2025-07-23 15:06:48,707 [INFO] Waiting for Arduino...
+2025-07-23 15:06:48,719 [INFO] Arduino detected on COM22
+2025-07-23 15:06:50,753 [INFO] Arduino: Arduino UNO R3 Sketch v1.0
+2025-07-23 15:06:50,754 [INFO] Arduino: Send 'ON' or 'OFF' via Serial to control LED.
+2025-07-23 15:06:50,754 [INFO] [Auto Test] Starting ON/OFF test
+2025-07-23 15:06:50,755 [INFO] Sending: ON
+2025-07-23 15:06:50,956 [INFO] Arduino: LED ON
+2025-07-23 15:06:50,957 [INFO] Sending: OFF
+2025-07-23 15:06:51,158 [INFO] Arduino: LED OFF
+2025-07-23 15:06:51,159 [INFO] [Auto Test] Test completed
+2025-07-23 15:06:54,183 [INFO] Arduino disconnected.
+2025-07-23 15:07:09,330 [INFO] Arduino detected on COM22
+2025-07-23 15:07:15,269 [INFO] Arduino: Arduino UNO R3 Sketch v1.0
+2025-07-23 15:07:15,272 [INFO] Arduino: Send 'ON' or 'OFF' via Serial to control LED.
+2025-07-23 15:07:15,273 [INFO] [Auto Test] Starting ON/OFF test
+2025-07-23 15:07:15,273 [INFO] Sending: ON
+2025-07-23 15:07:15,474 [INFO] Arduino: LED ON
+2025-07-23 15:07:15,474 [INFO] Sending: OFF
+2025-07-23 15:07:15,676 [INFO] Arduino: LED OFF
+2025-07-23 15:07:15,676 [INFO] [Auto Test] Test completed
+2025-07-23 15:07:22,736 [INFO] Arduino disconnected.
+2025-07-23 15:07:30,813 [INFO] Arduino detected on COM22
+2025-07-23 15:07:36,375 [INFO] Arduino: Arduino UNO R3 Sketch v1.0
+2025-07-23 15:07:36,377 [INFO] Arduino: Send 'ON' or 'OFF' via Serial to control LED.
+2025-07-23 15:07:36,377 [INFO] [Auto Test] Starting ON/OFF test
+2025-07-23 15:07:36,378 [INFO] Sending: ON
+2025-07-23 15:07:36,579 [INFO] Arduino: LED ON
+2025-07-23 15:07:36,580 [INFO] Sending: OFF
+2025-07-23 15:07:36,781 [INFO] Arduino: LED OFF
+2025-07-23 15:07:36,781 [INFO] [Auto Test] Test completed
+2025-07-23 15:07:44,864 [INFO] Arduino disconnected.
+2025-07-23 15:07:49,915 [INFO] Arduino detected on COM22
+2025-07-23 15:07:55,120 [INFO] Arduino: Arduino UNO R3 Sketch v1.0
+2025-07-23 15:07:55,122 [INFO] Arduino: Send 'ON' or 'OFF' via Serial to control LED.
+2025-07-23 15:07:55,123 [INFO] [Auto Test] Starting ON/OFF test
+2025-07-23 15:07:55,123 [INFO] Sending: ON
+2025-07-23 15:07:55,324 [INFO] Arduino: LED ON
+2025-07-23 15:07:55,324 [INFO] Sending: OFF
+2025-07-23 15:07:55,526 [INFO] Arduino: LED OFF
+2025-07-23 15:07:55,526 [INFO] [Auto Test] Test completed
+2025-07-23 15:08:53,920 [INFO] Waiting for Arduino...
+2025-07-23 15:08:53,934 [INFO] Arduino detected on COM22
+2025-07-23 15:08:55,967 [INFO] Arduino: Arduino UNO R3 Sketch v1.0
+2025-07-23 15:08:55,968 [INFO] Arduino: Send 'ON' or 'OFF' via Serial to control LED.
+2025-07-23 15:08:55,969 [INFO] [Auto Test] Starting ON/OFF test (failures allowed, tests independent)
+2025-07-23 15:08:55,969 [INFO] Sending: ON
+2025-07-23 15:08:56,270 [INFO] Arduino: LED ON
+2025-07-23 15:08:56,270 [INFO] Test PASSED for 'ON': found expected 'LED ON'
+2025-07-23 15:08:56,271 [INFO] Sending: OFF
+2025-07-23 15:08:56,572 [INFO] Arduino: LED OFF
+2025-07-23 15:08:56,573 [INFO] Test PASSED for 'OFF': found expected 'LED OFF'
+2025-07-23 15:08:56,573 [INFO] [Auto Test] Test cycle completed
+2025-07-23 15:09:02,627 [INFO] Arduino disconnected.
+2025-07-23 15:09:07,674 [INFO] Arduino detected on COM22
+2025-07-23 15:09:13,514 [INFO] Arduino: Arduino UNO R3 Sketch v1.0
+2025-07-23 15:09:13,516 [INFO] Arduino: Send 'ON' or 'OFF' via Serial to control LED.
+2025-07-23 15:09:13,517 [INFO] [Auto Test] Starting ON/OFF test (failures allowed, tests independent)
+2025-07-23 15:09:13,517 [INFO] Sending: ON
+2025-07-23 15:09:13,818 [INFO] Arduino: LED ON
+2025-07-23 15:09:13,818 [INFO] Test PASSED for 'ON': found expected 'LED ON'
+2025-07-23 15:09:13,819 [INFO] Sending: OFF
+2025-07-23 15:09:14,121 [INFO] Arduino: LED OFF
+2025-07-23 15:09:14,121 [INFO] Test PASSED for 'OFF': found expected 'LED OFF'
+2025-07-23 15:09:14,122 [INFO] [Auto Test] Test cycle completed
+2025-07-23 15:09:17,148 [INFO] Arduino disconnected.
+2025-07-23 15:09:23,205 [INFO] Arduino detected on COM22
+2025-07-23 15:09:29,312 [INFO] Arduino: Arduino UNO R3 Sketch v1.0
+2025-07-23 15:09:29,315 [INFO] Arduino: Send 'ON' or 'OFF' via Serial to control LED.
+2025-07-23 15:09:29,315 [INFO] [Auto Test] Starting ON/OFF test (failures allowed, tests independent)
+2025-07-23 15:09:29,316 [INFO] Sending: ON
+2025-07-23 15:09:29,618 [INFO] Arduino: LED ON
+2025-07-23 15:09:29,618 [INFO] Test PASSED for 'ON': found expected 'LED ON'
+2025-07-23 15:09:29,619 [INFO] Sending: OFF
+2025-07-23 15:09:29,920 [INFO] Arduino: LED OFF
+2025-07-23 15:09:29,921 [INFO] Test PASSED for 'OFF': found expected 'LED OFF'
+2025-07-23 15:09:29,921 [INFO] [Auto Test] Test cycle completed
+2025-07-23 15:09:35,978 [INFO] Arduino disconnected.
+2025-07-23 15:09:40,018 [INFO] Arduino detected on COM22
+2025-07-23 15:09:45,646 [INFO] Arduino: Arduino UNO R3 Sketch v1.0
+2025-07-23 15:09:45,648 [INFO] Arduino: Send 'ON' or 'OFF' via Serial to control LED.
+2025-07-23 15:09:45,648 [INFO] [Auto Test] Starting ON/OFF test (failures allowed, tests independent)
+2025-07-23 15:09:45,649 [INFO] Sending: ON
+2025-07-23 15:09:45,950 [INFO] Arduino: LED ON
+2025-07-23 15:09:45,950 [INFO] Test PASSED for 'ON': found expected 'LED ON'
+2025-07-23 15:09:45,951 [INFO] Sending: OFF
+2025-07-23 15:09:46,252 [INFO] Arduino: LED OFF
+2025-07-23 15:09:46,253 [INFO] Test PASSED for 'OFF': found expected 'LED OFF'
+2025-07-23 15:09:46,253 [INFO] [Auto Test] Test cycle completed
+2025-07-23 15:13:59,532 [INFO] Waiting for Arduino...
+2025-07-23 15:13:59,546 [INFO] Arduino detected on COM22
+2025-07-23 15:14:01,581 [INFO] Arduino: Arduino UNO R3 Sketch v1.0
+2025-07-23 15:14:01,582 [INFO] Arduino: Send 'ON' or 'OFF' via Serial to control LED.
+2025-07-23 15:14:01,583 [INFO] [Auto Test] Starting ON/OFF test (stop on failure)
+2025-07-23 15:14:01,583 [INFO] Sending: ON
+2025-07-23 15:14:01,884 [INFO] Arduino: LED ON
+2025-07-23 15:14:01,884 [INFO] Test PASSED for 'ON': found expected 'LED ON'
+2025-07-23 15:14:01,884 [INFO] Sending: OFF
+2025-07-23 15:14:02,186 [INFO] Arduino: LED OFF
+2025-07-23 15:14:02,187 [INFO] Test PASSED for 'OFF': found expected 'LED OFF'
+2025-07-23 15:14:02,187 [INFO] [Auto Test] All tests passed
+2025-07-23 15:14:08,246 [INFO] Arduino disconnected.
+2025-07-23 15:14:11,277 [INFO] Arduino detected on COM22
+2025-07-23 15:14:17,436 [INFO] Arduino: Arduino UNO R3 Sketch v1.0
+2025-07-23 15:14:17,437 [INFO] Arduino: Send 'ON' or 'OFF' via Serial to control LED.
+2025-07-23 15:14:17,438 [INFO] [Auto Test] Starting ON/OFF test (stop on failure)
+2025-07-23 15:14:17,438 [INFO] Sending: ON
+2025-07-23 15:14:17,739 [INFO] Arduino: LED ON
+2025-07-23 15:14:17,741 [INFO] Test PASSED for 'ON': found expected 'LED ON'
+2025-07-23 15:14:17,742 [INFO] Sending: OFF
+2025-07-23 15:14:18,043 [INFO] Arduino: LED OFF
+2025-07-23 15:14:18,044 [INFO] Test PASSED for 'OFF': found expected 'LED OFF'
+2025-07-23 15:14:18,044 [INFO] [Auto Test] All tests passed
+2025-07-23 15:15:46,619 [INFO] Waiting for Arduino...
+2025-07-23 15:15:46,632 [INFO] Arduino detected on COM22
+2025-07-23 15:15:48,665 [INFO] Arduino: Arduino UNO R3 Sketch v1.0
+2025-07-23 15:15:48,667 [INFO] Arduino: Send 'ON' or 'OFF' via Serial to control LED.
+2025-07-23 15:15:48,667 [INFO] [Auto Test] Starting ON/OFF test (stop on failure)
+2025-07-23 15:15:48,668 [INFO] Sending: ON
+2025-07-23 15:15:48,969 [ERROR] Test FAILED for 'ON': expected 'LED ON' not found in responses: []
+2025-07-23 15:15:48,969 [CRITICAL] Test Failure: ON test failed - stopping all tests
+2025-07-23 15:15:48,970 [CRITICAL] Stopping testing due to failure.
+2025-07-23 15:16:13,179 [INFO] Waiting for Arduino...
+2025-07-23 15:16:13,190 [INFO] Arduino detected on COM22
+2025-07-23 15:16:15,222 [INFO] Arduino: Arduino UNO R3 Sketch v1.0
+2025-07-23 15:16:15,224 [INFO] Arduino: Send 'ON' or 'OFF' via Serial to control LED.
+2025-07-23 15:16:15,225 [INFO] [Auto Test] Starting ON/OFF test (stop on failure)
+2025-07-23 15:16:15,225 [INFO] Sending: ON
+2025-07-23 15:16:15,527 [INFO] Arduino: LED ON
+2025-07-23 15:16:15,528 [INFO] Test PASSED for 'ON': found expected 'LED ON'
+2025-07-23 15:16:15,528 [INFO] Sending: OFF
+2025-07-23 15:16:15,829 [INFO] Arduino: LED OFF
+2025-07-23 15:16:15,830 [INFO] Test PASSED for 'OFF': found expected 'LED OFF'
+2025-07-23 15:16:15,830 [INFO] [Auto Test] All tests passed
+2025-07-23 15:16:18,860 [INFO] Arduino disconnected.
+2025-07-23 15:16:23,910 [INFO] Arduino detected on COM22
+2025-07-23 15:16:29,775 [INFO] Arduino: Arduino UNO R3 Sketch v1.0
+2025-07-23 15:16:29,776 [INFO] Arduino: Send 'ON' or 'OFF' via Serial to control LED.
+2025-07-23 15:16:29,777 [INFO] [Auto Test] Starting ON/OFF test (stop on failure)
+2025-07-23 15:16:29,777 [INFO] Sending: ON
+2025-07-23 15:16:30,078 [INFO] Arduino: LED ON
+2025-07-23 15:16:30,078 [INFO] Test PASSED for 'ON': found expected 'LED ON'
+2025-07-23 15:16:30,079 [INFO] Sending: OFF
+2025-07-23 15:16:30,380 [INFO] Arduino: LED OFF
+2025-07-23 15:16:30,380 [INFO] Test PASSED for 'OFF': found expected 'LED OFF'
+2025-07-23 15:16:30,381 [INFO] [Auto Test] All tests passed
+2025-07-23 15:18:31,644 [INFO] Arduino disconnected.
+2025-07-23 15:18:39,715 [INFO] Arduino detected on COM22
+2025-07-23 15:18:45,467 [INFO] Arduino: Arduino UNO R3 Sketch v1.0
+2025-07-23 15:18:45,468 [INFO] Arduino: Send 'ON' or 'OFF' via Serial to control LED.
+2025-07-23 15:18:45,469 [INFO] [Auto Test] Starting ON/OFF test (stop on failure)
+2025-07-23 15:18:45,469 [INFO] Sending: ON
+2025-07-23 15:18:45,771 [INFO] Arduino: LED ON
+2025-07-23 15:18:45,771 [INFO] Test PASSED for 'ON': found expected 'LED ON'
+2025-07-23 15:18:45,771 [INFO] Sending: OFF
+2025-07-23 15:18:46,073 [INFO] Arduino: LED OFF
+2025-07-23 15:18:46,074 [INFO] Test PASSED for 'OFF': found expected 'LED OFF'
+2025-07-23 15:18:46,074 [INFO] [Auto Test] All tests passed
+2025-07-23 15:19:02,242 [INFO] Arduino disconnected.
+2025-07-23 15:19:05,271 [INFO] Arduino detected on COM22
+2025-07-23 15:19:11,160 [INFO] Arduino: Arduino UNO R3 Sketch v1.0
+2025-07-23 15:19:11,161 [INFO] Arduino: Send 'ON' or 'OFF' via Serial to control LED.
+2025-07-23 15:19:11,162 [INFO] [Auto Test] Starting ON/OFF test (stop on failure)
+2025-07-23 15:19:11,162 [INFO] Sending: ON
+2025-07-23 15:19:11,463 [INFO] Arduino: LED ON
+2025-07-23 15:19:11,463 [INFO] Test PASSED for 'ON': found expected 'LED ON'
+2025-07-23 15:19:11,464 [INFO] Sending: OFF
+2025-07-23 15:19:11,766 [INFO] Arduino: LED OFF
+2025-07-23 15:19:11,767 [INFO] Test PASSED for 'OFF': found expected 'LED OFF'
+2025-07-23 15:19:11,767 [INFO] [Auto Test] All tests passed

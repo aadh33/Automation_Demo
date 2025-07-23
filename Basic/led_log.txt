@@ -1,0 +1,280 @@
+[2025-07-23 12:18:05] LED turned ON
+[2025-07-23 12:18:06] LED turned ON
+[2025-07-23 12:18:08] LED turned OFF
+[2025-07-23 12:18:09] LED turned OFF
+[2025-07-23 12:18:11] LED turned ON
+[2025-07-23 12:18:11] LED turned ON
+[2025-07-23 12:18:11] LED turned ON
+[2025-07-23 12:18:12] LED turned ON
+[2025-07-23 12:18:12] LED turned ON
+[2025-07-23 12:18:12] LED turned ON
+[2025-07-23 12:18:12] LED turned ON
+[2025-07-23 12:18:13] LED turned ON
+[2025-07-23 12:18:13] LED turned ON
+[2025-07-23 12:18:13] LED turned ON
+[2025-07-23 12:18:13] LED turned ON
+[2025-07-23 12:18:13] LED turned ON
+[2025-07-23 12:18:13] LED turned ON
+[2025-07-23 12:18:14] LED turned ON
+[2025-07-23 12:18:14] LED turned ON
+[2025-07-23 12:18:14] LED turned ON
+[2025-07-23 12:18:15] LED turned ON
+[2025-07-23 12:18:16] Started blinking (0.5s ON/OFF)
+[2025-07-23 12:18:16] LED BLINK ON (0.5s)
+[2025-07-23 12:18:17] LED BLINK OFF (0.5s)
+[2025-07-23 12:18:17] LED BLINK ON (0.5s)
+[2025-07-23 12:18:18] LED BLINK OFF (0.5s)
+[2025-07-23 12:18:19] LED BLINK ON (0.5s)
+[2025-07-23 12:18:19] LED BLINK OFF (0.5s)
+[2025-07-23 12:18:20] LED BLINK ON (0.5s)
+[2025-07-23 12:18:20] LED BLINK OFF (0.5s)
+[2025-07-23 12:18:21] LED BLINK ON (0.5s)
+[2025-07-23 12:18:21] LED ON for 5 seconds
+[2025-07-23 12:18:21] LED ON for 5 seconds
+[2025-07-23 12:18:22] LED ON for 5 seconds
+[2025-07-23 12:18:22] LED ON for 5 seconds
+[2025-07-23 12:18:22] LED ON for 5 seconds
+[2025-07-23 12:18:23] LED OFF for 10 seconds
+[2025-07-23 12:18:24] LED OFF for 10 seconds
+[2025-07-23 12:18:24] LED OFF for 10 seconds
+[2025-07-23 12:18:24] LED OFF for 10 seconds
+[2025-07-23 12:18:24] LED OFF for 10 seconds
+[2025-07-23 12:18:24] LED OFF for 10 seconds
+[2025-07-23 12:18:24] LED OFF for 10 seconds
+[2025-07-23 12:18:25] LED OFF for 10 seconds
+[2025-07-23 12:18:26] Started blinking (0.5s ON/OFF)
+[2025-07-23 12:18:26] LED BLINK ON (0.5s)
+[2025-07-23 12:18:26] Started blinking (0.5s ON/OFF)
+[2025-07-23 12:18:26] LED BLINK ON (0.5s)
+[2025-07-23 12:18:26] Started blinking (0.5s ON/OFF)
+[2025-07-23 12:18:26] LED BLINK ON (0.5s)
+[2025-07-23 12:18:26] Started blinking (0.5s ON/OFF)
+[2025-07-23 12:18:26] LED BLINK ON (0.5s)
+[2025-07-23 12:18:26] Started blinking (0.5s ON/OFF)
+[2025-07-23 12:18:26] LED BLINK ON (0.5s)
+[2025-07-23 12:18:26] Started blinking (0.5s ON/OFF)
+[2025-07-23 12:18:26] LED BLINK ON (0.5s)
+[2025-07-23 12:18:26] Started blinking (0.5s ON/OFF)
+[2025-07-23 12:18:26] LED BLINK ON (0.5s)
+[2025-07-23 12:18:27] Started blinking (0.5s ON/OFF)
+[2025-07-23 12:18:27] LED BLINK ON (0.5s)
+[2025-07-23 12:18:27] Started blinking (0.5s ON/OFF)
+[2025-07-23 12:18:27] LED BLINK ON (0.5s)
+[2025-07-23 12:18:27] Started blinking (0.5s ON/OFF)
+[2025-07-23 12:18:27] LED BLINK ON (0.5s)
+[2025-07-23 12:18:27] Started blinking (0.5s ON/OFF)
+[2025-07-23 12:18:27] LED BLINK ON (0.5s)
+[2025-07-23 12:18:27] Started blinking (0.5s ON/OFF)
+[2025-07-23 12:18:27] LED BLINK ON (0.5s)
+[2025-07-23 12:18:27] Started blinking (0.5s ON/OFF)
+[2025-07-23 12:18:27] LED BLINK ON (0.5s)
+[2025-07-23 12:18:28] LED BLINK OFF (0.5s)
+[2025-07-23 12:18:28] LED BLINK ON (0.5s)
+[2025-07-23 12:18:29] LED turned ON
+[2025-07-23 12:18:29] LED turned ON
+[2025-07-23 12:18:30] Started 5s ON, 10s OFF loop
+[2025-07-23 12:18:30] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:18:30] Started 5s ON, 10s OFF loop
+[2025-07-23 12:18:30] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:18:30] Started 5s ON, 10s OFF loop
+[2025-07-23 12:18:30] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:18:31] LED turned OFF
+[2025-07-23 12:18:32] LED turned ON
+[2025-07-23 12:18:32] LED turned ON
+[2025-07-23 12:18:33] LED turned OFF
+[2025-07-23 12:18:33] LED turned OFF
+[2025-07-23 12:18:34] LED turned OFF
+[2025-07-23 12:18:40] LED turned ON
+[2025-07-23 12:18:40] LED turned ON
+[2025-07-23 12:18:41] LED turned OFF
+[2025-07-23 12:21:15] LED turned ON
+[2025-07-23 12:21:17] LED turned OFF
+[2025-07-23 12:21:18] LED turned OFF
+[2025-07-23 12:21:35] LED turned ON
+[2025-07-23 12:21:36] LED turned ON
+[2025-07-23 12:21:36] LED turned ON
+[2025-07-23 12:21:36] LED turned ON
+[2025-07-23 12:21:38] Started 5s ON, 10s OFF loop
+[2025-07-23 12:21:38] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:21:38] Started 5s ON, 10s OFF loop
+[2025-07-23 12:21:38] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:21:38] Started 5s ON, 10s OFF loop
+[2025-07-23 12:21:38] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:21:39] Started 5s ON, 10s OFF loop
+[2025-07-23 12:21:39] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:21:40] Started 5s ON, 10s OFF loop
+[2025-07-23 12:21:40] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:21:40] Started 5s ON, 10s OFF loop
+[2025-07-23 12:21:40] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:21:40] Started 5s ON, 10s OFF loop
+[2025-07-23 12:21:40] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:21:40] Started 5s ON, 10s OFF loop
+[2025-07-23 12:21:40] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:21:41] Started 5s ON, 10s OFF loop
+[2025-07-23 12:21:41] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:21:44] LED ON for 5 seconds
+[2025-07-23 12:21:46] Started 5s ON, 10s OFF loop
+[2025-07-23 12:21:46] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:21:51] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:22:01] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:22:06] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:22:16] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:22:20] Started 5s ON, 10s OFF loop
+[2025-07-23 12:22:20] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:22:25] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:22:35] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:22:40] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:22:50] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:22:55] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:23:05] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:23:10] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:23:20] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:23:25] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:23:36] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:23:41] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:23:51] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:23:56] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:24:06] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:24:11] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:24:21] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:24:26] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:24:36] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:24:41] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:24:51] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:24:56] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:25:06] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:25:11] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:25:21] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:25:26] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:25:36] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:25:41] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:25:52] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:25:57] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:26:07] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:26:12] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:26:22] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:26:27] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:26:37] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:26:42] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:26:52] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:26:57] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:27:07] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:27:12] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:27:22] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:27:27] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:27:37] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:27:42] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:27:52] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:27:57] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:28:08] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:28:13] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:28:23] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:28:28] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:28:38] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:28:43] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:28:53] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:28:58] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:29:08] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:29:13] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:29:23] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:29:28] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:29:38] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:29:43] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:29:53] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:29:58] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:30:08] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:30:13] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:30:24] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:30:29] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:30:39] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:30:44] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:30:54] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:30:59] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:31:09] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:31:14] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:31:24] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:31:29] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:31:39] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:31:44] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:31:54] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:31:59] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:32:09] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:32:14] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:32:24] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:32:29] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:32:39] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:32:44] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:32:54] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:32:59] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:33:09] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:33:14] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:33:25] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:33:30] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:33:40] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:33:45] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:33:55] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:34:00] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:34:10] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:34:15] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:34:25] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:34:30] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:34:40] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:34:45] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:34:55] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:35:00] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:35:10] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:35:15] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:35:25] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:35:30] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:35:40] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:35:45] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:35:55] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:36:00] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:36:10] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:36:15] LED OFF (10s in ON/OFF loop)
+[2025-07-23 12:37:10] LED ON for user-defined 7.0 seconds
+[2025-07-23 12:37:26] LED turned ON
+[2025-07-23 12:37:26] LED turned ON
+[2025-07-23 12:37:32] LED turned ON
+[2025-07-23 12:37:34] LED turned ON
+[2025-07-23 12:37:40] LED ON for user-defined 7.0 seconds
+[2025-07-23 12:37:47] Started 5s ON, 10s OFF loop
+[2025-07-23 12:37:47] LED ON (5s in ON/OFF loop)
+[2025-07-23 12:38:11] LED OFF after user-defined 7.0 seconds
+[2025-07-23 12:38:11] LED ON for user-defined 7.0 seconds
+[2025-07-23 12:38:11] LED turned ON
+[2025-07-23 12:39:38] LED turned ON
+[2025-07-23 12:39:40] LED turned OFF
+[2025-07-23 12:39:45] Validation passed: LED ON for user-defined 8.0 seconds
+[2025-07-23 12:39:53] LED OFF after user-defined 8.0 seconds
+[2025-07-23 12:40:17] Validation passed: LED ON for user-defined 11.0 seconds
+[2025-07-23 12:40:28] LED OFF after user-defined 11.0 seconds
+[2025-07-23 12:40:34] Validation passed: LED ON for user-defined 11.0 seconds
+[2025-07-23 12:40:45] LED OFF after user-defined 11.0 seconds
+[2025-07-23 12:42:01] LED OFF after user-defined 11.0 seconds
+[2025-07-23 12:42:01] Validation passed: LED ON for user-defined 11.0 seconds
+[2025-07-23 12:42:50] LED ON for user-defined 12.0 seconds
+[2025-07-23 12:43:02] LED OFF after user-defined 12.0 seconds
+[2025-07-23 12:43:02] Validation passed: LED ON for user-defined 12.0 seconds
+[2025-07-23 12:46:22] LED turned ON
+[2025-07-23 12:46:25] LED turned OFF
+[2025-07-23 12:46:29] LED ON for user-defined 12.0 seconds
+[2025-07-23 12:46:41] LED OFF after user-defined 12.0 seconds
+[2025-07-23 12:46:41] Validation passed: LED ON duration matched 12.0 seconds
+[2025-07-23 12:46:59] LED ON for user-defined 10.0 seconds
+[2025-07-23 12:47:09] LED OFF after user-defined 10.0 seconds
+[2025-07-23 12:47:09] Validation passed: LED ON duration matched 10.0 seconds
+[2025-07-23 12:53:58] LED turned ON
+[2025-07-23 12:54:10] LED turned ON
+[2025-07-23 12:54:38] LED turned ON
+[2025-07-23 12:54:38] LED turned ON
+[2025-07-23 12:54:38] LED turned ON
+[2025-07-23 12:54:38] LED turned ON
+[2025-07-23 12:54:39] LED turned ON
+[2025-07-23 12:54:39] LED turned ON
+[2025-07-23 12:54:39] LED turned ON
+[2025-07-23 12:54:39] LED turned ON
+[2025-07-23 12:54:39] LED turned ON
+[2025-07-23 12:54:40] LED turned ON
+[2025-07-23 12:54:59] LED turned OFF
+[2025-07-23 12:55:01] LED turned ON
